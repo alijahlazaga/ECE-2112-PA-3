@@ -6,7 +6,7 @@ The content of this repository contains the Programming Assignment 3 for "Advanc
 
 Note: Before coding, put 'import pandas as pd` in order to import the PANDAS library and rename it to pd. This way, pd will act as an acronym, shortening it so that we don't have to code pandas before every function. We also have to import a .csv file that was uploaded in canvas by your professor. We can use `pd.read_csv()` to read the file and rename it to `cars`.
 
-# **A. Positional and Label-Based Slicing
+# **A. Positional and Label-Based Slicing**
 
 **a. Display the shape and complete list of column names cars.**
 
