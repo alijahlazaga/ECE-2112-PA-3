@@ -41,7 +41,7 @@ cars_6_to_10.loc[:, ['Model', 'mpg', 'cyl', 'hp', 'gear']]
 ```
 Note: You can place the name of the dataframe in the second line after each code to display/print the function.
 
-# ** B. Model Lookup**
+# **B. Model Lookup**
 
 Use Boolean indexing on the Model column to answer both requests.
 
